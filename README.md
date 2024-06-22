@@ -22,7 +22,8 @@ Usage:
 
 It is not necessary to generate the apk more than once
 
-SE_MP: se_+ (for longer and heavier audios)
+SE_MP:
+se_+ (for longer and heavier audios)
 
 PAUSE: 
 0 - does not pause the game and does not block the touch, 
