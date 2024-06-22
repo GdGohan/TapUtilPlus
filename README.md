@@ -17,3 +17,12 @@ Scenario selection menu
 Temporarily pause scene music when using a specific sound effect
 
 Load video when playing a specific SE/BGM
+
+Usage:
+
+It is not necessary to generate the apk more than once
+
+SE_MP: se_+ (for longer and heavier audios)
+
+The music room images can be edited by any tool that edits an apk 
+and is capable of exchanging images from the res folder
