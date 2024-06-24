@@ -27,6 +27,7 @@ The new apk will use a larger amount, so you will not be able to decrease the am
 The extra files that will be in the game folder will not need to be compiled, just change them and save the changes.
 
 SE_MP: number
+
 File name: se_+number (for longer and heavier audios)
 
 PAUSE: 
