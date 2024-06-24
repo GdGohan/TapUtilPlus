@@ -20,8 +20,6 @@ Load video when playing a specific SE/BGM
 
 Usage:
 
-It is not necessary to generate the apk more than once
-
 SE_MP: number, se_+ (for longer and heavier audios)
 
 PAUSE: 
