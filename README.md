@@ -24,6 +24,8 @@ Use the new gamedata, it extends the amount of snd for battle mode, you can chan
 
 The new apk will use a larger amount, so you will not be able to decrease the amount of "SND", but you will be able to repeat the ids of the songs
 
+the extra .dac files will not need to be compiled, just change them and save the changes.
+
 SE_MP: number, se_+ (for longer and heavier audios)
 
 PAUSE: 
