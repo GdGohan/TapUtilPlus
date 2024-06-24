@@ -20,6 +20,9 @@ Load video when playing a specific SE/BGM
 
 Usage:
 
+Use the new gamedata, it extends the amount of snd for battle mode, you can change the ids and consequently add more songs than the game's default amount, search for "SND" in the 001.dac file
+The new apk will use a larger amount, so you will not be able to decrease the amount of "SND", but you will be able to repeat the ids of the songs
+
 SE_MP: number, se_+ (for longer and heavier audios)
 
 PAUSE: 
