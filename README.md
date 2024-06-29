@@ -1,6 +1,6 @@
 # TapUtilPlus
 
-Releases:https://github.com/GdGohan/TapUtilPlus/releases
+[Releases](https://github.com/GdGohan/TapUtilPlus/releases)
 
 Cryptography 
 
