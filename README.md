@@ -44,3 +44,7 @@ PAUSE:
 The music room images can be edited by any tool that edits an apk 
 
 and is capable of exchanging images from the res folder
+
+credits:
+
+(Sakura Zarco/Zero Devs) https://youtube.com/@zero-devs?feature=shared
