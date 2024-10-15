@@ -2,8 +2,6 @@
 
 [Releases](https://github.com/GdGohan/TapUtilPlus/releases)
 
-v2.1: Char Transformation disabled temporarily
-
 Cryptography 
 
 Read files from an external storage directory 
