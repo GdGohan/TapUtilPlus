@@ -33,13 +33,13 @@ SE_MP: number
 File name: se_+number (for longer and heavier audios)
 
 PAUSE: 
-0 - does not pause the game and does not block the touch, 
+0 - does not pause the game and block the touch, 
 
 1 - does not pause the game and block the touch, 
 
 2 - pause the game and does not block the touch, 
 
-3 - pause the game and block the touch.
+3 - pause the game and does not block the touch.
 
 The music room images can be edited by any tool that edits an apk 
 
