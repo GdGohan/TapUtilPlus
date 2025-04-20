@@ -86,6 +86,7 @@ Controlled by:
 
 | Value Meaning                             Situation                                                           
 |-------|-------------------------------------|----------------------------------------------------------------------|
+
 | 0     Start                                Default initial state                                               
 | 71    Error (smap)                        Returns to menu                                                     
 | 84    Error (Download/Connection)       Shows warning                                                       
@@ -129,6 +130,7 @@ Central vector for loading characters, cards, HUDs, scenarios, etc.
 
 | Index Use                                Notes                         
 |-------|------------------------------------|--------------------------------|
+
 | 1     Scenario ID                        E.g., 1 = Namek, 2 = Arena    
 | 3     Player 1 character                 Reflected in [27]            
 | 4     Player 2 character                 Reflected in [28]            
@@ -148,6 +150,7 @@ Controls opponent behavior in training mode (`iPlayMode == 2`).
 
 | Index Function                         Common Values             
 |-------|----------------------------------|----------------------------|
+
 | 0     Opponent initial direction       0 = Right, 1 = Left       
 | 1     Initial position                 0 = Normal, 1 = Center, etc|
 | 2     AI type                          0 = Idle, 1+ = Reacts     
@@ -163,6 +166,7 @@ Defines active characters in the game.
 
 | Index Player     Value           
 |-------|------------|------------------|
+
 | 0     Player 1   Character ID    
 | 1     Player 2   Character ID    
 
@@ -197,6 +201,7 @@ Example - Tutorial Mode:
 
 | Value Name                Confirmed Function                             HP Reduction Notes                              
 |-------|---------------------|------------------------------------------------|--------------|-------------------------------------|
+
 | 0     Arcade               Story/Arcade mode with rounds                 Yes          Mission with AI                    
 | 1     (Unknown)           [Reserved]                                        ?            Not clearly used in code           
 | 2     Training              Free training with AI, infinite life                 No           `PracticeSetting` defines AI       
