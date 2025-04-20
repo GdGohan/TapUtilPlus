@@ -94,7 +94,7 @@ Controlled by:
 | 89    Character version check                                                                                 
 | 97    Wipe out                                                                                                
 | 106   Error or fallback                    Used for reset or failure                                           
-| 109   Preparing to download character/cards|                                                                     
+| 109   Preparing to download character/cards                                                                     
 | 110   Draws character artwork                                                                                 
 | 138   Panel creation for preview                                                                              
 | 145   Panel                               Mission/panel mode                                                  
