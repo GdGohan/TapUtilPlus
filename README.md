@@ -230,10 +230,12 @@ These values are assigned to the `iPlayMode` variable to determine the current g
 - **Description**: Responsible for drawing UI/panel interfaces
 - **Common Parameters**:
   - `GlobalWork gw`
-  ?
+  
+?
   - `actype`: 0 = common, 5 = demo_00 and effect, 1 = select0, 6 and 7 = chardemo
   - `ano`
-  ?
+ 
+ ?
   - `wactflag`
   - `x`, `y`
 - **Usage**: Menu, HUD, card selection, results
