@@ -211,7 +211,7 @@ Example - Tutorial Mode:
 | 6     SMAP                SMAP viewer                                     N/A          Calls `glview.SmapStart()`         
 | 7     Data / Cards         Access to card/config menus                   N/A          Allows deck building               
 | 8     Versus (Multiplayer)  Local PvP, real HP                              Yes          Ideal for 2-player mode            
-| 9     Versus                Local PvP, real HP                              Yes          Same as above                      
+| 9 (soon)     Versus                Local PvP, real HP                              Yes          Same as above                      
 
 These values are assigned to the `iPlayMode` variable to determine the current game behavior. Each mode changes life system, AI, HUD, and resource loading.
 
