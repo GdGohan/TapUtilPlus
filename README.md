@@ -20,6 +20,8 @@ Temporarily pause scene music when using a specific sound effect
 
 Load video when playing a specific SE/BGM
 
+And More
+
 Usage:
 
 Use the new gamedata, it extends the amount of snd for battle mode, you can change the ids and consequently add more songs than the game's default amount, search for "SND" in the 001.dac file.
